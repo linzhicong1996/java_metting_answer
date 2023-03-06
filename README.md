@@ -1,3 +1,10 @@
+接口实现 com.Transaction.UserWalletService.java
+主类 com.Transaction.Main.javan
+建表语句：com.DDL.ddl.sql
+
+以上代码因为时间关系较为粗糙，未有调试，有bug请谅解
+
+
 业务背景：电商业务中，需要给电商app设计一个用户钱包，用户可以往钱包中充值，购买商品时用户可以使用钱包中的钱消费，商品申请退款成功后钱会退回钱包中，用户也可以申请提现把钱提到银行卡中
 用程序实现如下api接口
  1.  查询用户钱包余额
